@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FoodOrder</string>
+    <string name="navigation_drawer_open">Drawer Open</string>
+    <string name="navigation_drawer_close">Drawer Closed</string>
+    <string name="tab_text_1">Food</string>
+    <string name="tab_text_2">Restorents</string>
+</resources>
